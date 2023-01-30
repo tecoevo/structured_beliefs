@@ -8,15 +8,15 @@ Małgorzata Fic and Chaitanya S. Gokhale
 
 ## Details
 
-In this repository we provide 
+In this repository, we provide 
 
 - Julia code for simulation results
 
 ----
 
-- Provided code can be used to recreate the simulations run for project. 
+- Provided code can be used to recreate the simulations run for the project. 
   - Julia Release Julia 1.6.4
-- Results presented in the manuscript are agregated over 10 networks generated for a given parameter set and 100 simulations runs on each network generated.
+- Results presented in the manuscript are aggregated over 10 networks generated for a given parameter set, and 100 simulation runs for each generated network.
 - Julia Packages used in the code:
   -  Graphs.jl
   -  MetaGraphs.jl
@@ -24,4 +24,4 @@ In this repository we provide
   -  StatsBase.jl
   -  CSV.jl
   -  Random.jl
-- One run of the code produces a CSV. file, each line of the file representing the population composition after a time step. 
+- One run of the code produces a CSV. file, each line representing the population composition after a time step.
