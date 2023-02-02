@@ -24,4 +24,7 @@ In this repository, we provide
   -  StatsBase.jl
   -  CSV.jl
   -  Random.jl
-- One run of the code produces a CSV. file, each line representing the population composition after a time step.
+  -  DataFrames.jl
+  -  Statistics
+- One run of the Simulator.jl produces a CSV. file, each line representing the population composition after a time step.
+- Skript provided in Averages.jl can be used to agregate data from multiple simulation runs and produce CSV files used to create figures.
