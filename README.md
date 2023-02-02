@@ -28,3 +28,4 @@ In this repository, we provide
   -  Statistics
 - One run of the Simulator.jl produces a CSV. file, each line representing the population composition after a time step.
 - Script provided in Averages.jl can be used to agregate data from multiple simulation runs and produce CSV files used to create figures.
+- Script provided in Tipping_points.jl can be used to agregate data from multiple simulation runs and prodeuce CSV files used to create Figure 4.
