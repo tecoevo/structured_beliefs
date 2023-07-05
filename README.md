@@ -11,6 +11,8 @@ Małgorzata Fic and Chaitanya S. Gokhale
 In this repository, we provide 
 
 - Julia code for simulation results
+- Aggregated results of the simulations in CSV. format
+- Mathematica files used to generate figures
 
 ----
 
